@@ -1,8 +1,5 @@
 '''
 Karen Maza
-11/30
-Section 008
-Professor Zhao
 '''
 
 #used to find product with the longest name in inventory to format a table of all products
